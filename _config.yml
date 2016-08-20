@@ -1,14 +1,26 @@
-layout_spectrum: 0.6712583408225328
-typography_spectrum: 0.7213893195148557
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.6635751
 color:
-  brandStrength: 0.5671183012891561
-  lightness: 0.15848822356201708
   saturation: 0.5104565529618412
-  rhythmicContrast: 0.4980456121265888
+  brandStrength: 1
+  lightness: 0.1584882235620171
   brandColors:
-    - '#04BFBF'
-    - '#CAFCD8'
-    - '#F7E967'
-    - '#A9CF54'
-    - '#588F27'
+    - '#3D69CA'
+    - '#000000'
+    - '#DFECFE'
+    - '#738433'
+    - '#AAA56E'
+  rhythmicContrast: 0.4980456121265888
+layout_spectrum: 0.6712583408225328
 name: ajohnsonphotography

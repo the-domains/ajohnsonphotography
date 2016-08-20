@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.6635751
 color:
-  saturation: 0.5104565529618412
+  saturation: 0.8541315
   brandStrength: 1
-  lightness: 0.1584882235620171
+  lightness: 0.688027
   brandColors:
     - '#3D69CA'
     - '#000000'
     - '#DFECFE'
     - '#738433'
     - '#AAA56E'
-  rhythmicContrast: 0.4980456121265888
-typography_spectrum: 0.6635751
+  rhythmicContrast: 0.7706577
 layout_spectrum: 1
 name: ajohnsonphotography

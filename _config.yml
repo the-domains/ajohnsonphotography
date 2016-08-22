@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.6635751
 color:
   saturation: 0.7403035
   brandStrength: 0.9089376
-  lightness: 0.8086004
+  rhythmicContrast: 0.5775717
   brandColors:
     - '#000004'
     - '#3F6EB6'
     - '#BEBCBF'
     - '#883D20'
     - '#B4994F'
-  rhythmicContrast: 0.5775717
-layout_spectrum: 0.2925801
+  lightness: 0.8086004
+layout_spectrum: 0
 name: ajohnsonphotography
